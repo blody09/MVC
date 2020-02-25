@@ -108,3 +108,5 @@ C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1
 C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\MVCLab.pdb
 C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\Razor\Views\Calculator\CalculationForm.cshtml.g.cs
 C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\Razor\Views\Calculator\ResultForm.cshtml.g.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageForm.cshtml.g.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\MVCLab\MVCLab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageResult.cshtml.g.cs
